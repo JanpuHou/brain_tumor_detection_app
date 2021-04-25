@@ -1,4 +1,3 @@
-import keras
 from PIL import Image, ImageOps
 import numpy as np
 from tensorflow.keras.preprocessing.image import img_to_array
